@@ -26,7 +26,8 @@ With all that said: *let's get to developing!*
 
 The plan is to meet weekly as a group. You can, of course, come to all meetings or whichever ones work best for you. Use this time for yourself to dive deep into web development!
 
-We will meet at `7-8pm` EST on *Mondays* for an hour in SCCE C209.
+- *When?* `7-8pm EST`on `Mondays` for an hour.
+- *Where?* in `SCCE C209`.
 
 ### Activities
 
